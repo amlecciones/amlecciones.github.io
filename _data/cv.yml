@@ -2,64 +2,78 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aaron Julius M. Lecciones
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11 December 1983
     - name: Languages
-      value: English, German
+      value: English, Filipino
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD (ongoing)
+      institution: University of Washington, Seattle
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - PhD in Urban Design and Planning
+        - Current research: scaling blue-green infrastructure in the built environment under a Wetland City framework.
+    - title: M.A.
+      institution: University of the Philippines, Diliman
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - M.A. in Urban and Regional Planning
+        - Thesis: Community Perception and the Value of Ecosystem Services in Establishing  Land Use for the Las Piñas – Parañaque Critical Habitat and Ecotourism Area
+    - title: M.Sc.
+      institution: Royal Holloway, University of London
+      year: 2012
+      description:
+        - M.A. in Urban and Regional Planning
+        - Dissertation : Capital assets in community-based disaster risk reduction and climate change adaptation mainstreaming in Ticao Island, Philippines
+    - title: B.S.
+      institution: University of the Philippines, Diliman
+      year: 2001
+      description:
+        - BS in Architecture
+        - Thesis : Developing a Framework for Applying Energy Efficient Technologies in the Building Envelope of Housing Developments
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor III
+      institution: College of Architecture University of the Philippines, Diliman
+      year: 2022-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Member, Urban Design Studio Laboratory
+
+    - title: Assistant Professor I
+      institution: College of Architecture University of the Philippines, Diliman
+      year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Head, Research Committee, Urban Design Studio Laboratory
+        - Member, Architectural Communication Studio Laboratory
+        - Member, Environmental Architecture Studio Laboratory
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Director of Extension Services
+      institution: College of Architecture University of the Philippines, Diliman
+      year: 2020-2021
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Assistant Professor II
+      institution: College of Human Ecology, University of the Philippines, Los Baños
+      year: 2018-2019
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Faculty at the Department of Community and Environmental Resource Planning
+        - Member, Public Relations and Information Committee
+        - Member, Occupational Health and Physical Facilities Committee
+        - Member, DCERP Curriculum Committee
+        - Member, AUN Curriculum Committee
+        -
+    - title: Assistant Professor II
+      institution: College of Human Ecology, University of the Philippines, Los Baños
+      year: 2014-2015
+      description:
+        - Faculty at the Department of Social Development Services
+        - Member, Public Relations and Information Committee
+        - Member, Occupational Health and Physical Facilities Committee
 
 - title: Open Source Projects
   type: time_table
@@ -71,25 +85,39 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2022
+      items:
+        - Fulbright-CHED PhD Scholarship
+    - year: 2019
+      items:
+        - Commendation from the Office of Senator Cynthia A. Villar
+    - year: 2012
+      items:
+        - Paula-Ann Prize in Geography
+    - year: 2011
+      items:
+        - British Chevening Scholarship
+    - year: 2011
+      items:
+        - ASEAN Champions for Biodiversity
+    - year: 2005
+      items:
+        - Gawad Chanselor Pangaral ng Mag-aaral
+    - year: 2005
+      items:
+        - Holcim Awards for Sustainable Construction (Regional)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Sustainable Built Environments
       items:
-        - Description 1.
-        - Description 2.
+        - Scaling blue-green infrastructure and other nature-based solutions in the built environment under a Wetland City framework.
+        - Urban Informatics, Data Science, and Sustainable Development
+    - title: Sustainable Architecture
+      items:
+        - Green, sustainable, and resilient architecture
+        - Active design, environmental architecture, 
 
 - title: Other Interests
   type: list

@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>College of Architecture</p>
+    <p>University of the Philippines</p>
+    <p>Diliman, Quezon City, Philippines</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Aaron Lecciones** is an [*Assistant Professor*](https://upca.upd.edu.ph/about/faculty/) at the **College of Architecture, University of the Philippines Diliman**. He earned his *BS in Architecture* and *MA in Urban and Regional Planning* degrees from the University of the Philippines, Diliman, and an *MSc in Practising Sustainable Development* with distinction at Royal Holloway, University of London. He is currently completing a *PhD in Urban Design and Planning* at the University of Washington, Seattle. He is a recipient of the **2022 Fulbright-CHED Scholarship**, **2011 British Chevening Scholarship**, and a regional winner of the **2005 Holcim Awards for Sustainable Construction**. Aaron's research on the intersection of **sustainable and resilient urban design**, **wetland and built environment dynamics**, **nature-based solutions**, and **blue-green infrastructure** have been published in SCOPUS indexed database. Before joining the UP College of Architecture, he was previously Assistant Professor at the College of Human Ecology, UP Los Baños; Senior Lecturer at the College of Architecture, FEATI University; and Senior Lecturer at the Architecture and Multimedia Arts programs of the School of Design and Arts at De La Salle College of Saint Benilde.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His 16 years of experience span work in **urban and architectural design, tourism, disaster risk reduction and management, climate change planning, and sustainable development** in the Philippines, South Korea, Hong Kong, China, and Canada. He is the lead Architect of the Ramsar-listed Las Piñas – Parañaque Wetland Park’s Wetland Center and the International Climate Initiative (IKI)-funded Paligui Wetland Center. Before joining the UP College of Architecture, he was previously Assistant Professor at the College of Human Ecology, UPLB; Senior Lecturer at the College of Architecture, FEATI University; and Senior Lecturer at the Architecture and Multimedia Arts programs of the School of Design and Arts at De La Salle College of Saint Benilde.  He sits on the Board of Trustees for the [Society for the Conservation of Philippine Wetlands, Inc.](https://wetlands.ph/) and the Las Piñas – Parañaque Wetland Park Protected Area Management Board.
